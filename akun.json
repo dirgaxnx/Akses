@@ -11,5 +11,11 @@
     "username": "dirga",
     "password": "1234",
     "role": "prem"
+  },
+  {
+    "id": 8201382395,
+    "username": "kontol",
+    "password": "333",
+    "role": "prem"
   }
 ]
